@@ -1,6 +1,5 @@
 # REDBUS PROJECT
 # Project Description
-# Title: Bus Data Management and Analysis System
 # Overview:
 This project involves the creation of a comprehensive bus data management and analysis system. The system integrates web scraping, data processing, database management, and an interactive user interface to provide detailed insights and filtering capabilities for bus transportation data.
 
