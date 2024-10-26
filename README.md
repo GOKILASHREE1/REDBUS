@@ -38,5 +38,10 @@ Web Scraping: Selenium
 Data Processing: Python (Pandas)
 Database Management: MySQL, XAMPP
 User Interface: Streamlit
+# Outcome
+![image](https://github.com/user-attachments/assets/13228244-0a00-4195-9fe0-78a2231b5b0d)![image](https://github.com/user-attachments/assets/4ae98512-b713-4cf9-93fa-63bdff2da4f3)
+
+
+
 
 
